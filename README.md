@@ -54,12 +54,6 @@ Vincent Chirio • Sourendu Saha • Cat Wimmer • Leon Tan
 | Gradient Boosting     | 0.96 | 17,529   | 29%   |
 | Random Forest         | 0.98 | 11,264   | 16%   |
 
-## 🚀 Deployment & Monitoring
-
-- **Repository**: Public on GitHub for reproducibility
-- **Updates**: Manual yearly dataset refresh and model retraining
-- **Monitoring**: K-S statistic for data drift detection
-
 ## ✅ Key Takeaways
 
 - **Random Forest** achieved the lowest RMSE
